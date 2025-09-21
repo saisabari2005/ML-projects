@@ -41,12 +41,8 @@ This repository contains multiple Machine Learning projects, ranging from sales 
 ```
 
 2. Open the project/notebook you want to explore.
-3. Install the required dependencies (usually listed in each project's notebook or a requirements.txt if provided):
-```bash
- pip install -r requirements.txt
-```
 
-4. Run the code and explore results.
+3. Run the code and explore results.
 
 ---
 
