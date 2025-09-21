@@ -65,15 +65,6 @@ This repository contains multiple Machine Learning projects, ranging from sales 
 
 ---
 
-## Future Improvements
-
-- Integrate all recommendation systems into a single multi-modal recommender.
-- Explore deep learning-based approaches for sales prediction.
-- Add interactive dashboards using Streamlit or Dash.
-- Improve dataset preprocessing and feature engineering across projects.
-
----
-
 ## License
 
 This repository is licensed under the MIT License.
